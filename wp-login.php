@@ -1,4 +1,5 @@
 <?php
+echo " Welcome Login";
 /**
  * WordPress User Page
  *
